@@ -1,0 +1,13 @@
+{
+  "name": "cpp",
+  "version": "0.1.0",
+  "description": "C++ addons",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node main.js",
+    "build": "node-gyp rebuild"
+  },
+  "author": "Jamal O'Garro",
+  "license": "MIT",
+  "gypfile": true
+}

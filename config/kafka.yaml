@@ -1,0 +1,6 @@
+/**
+ * Kafka configs
+ */
+export const KAFA_TOPIC = 'example';
+
+export const KAFKA_SERVER = 'localhost:2181';

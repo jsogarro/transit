@@ -1,0 +1,9 @@
+/**
+ * Notification configurations
+ */
+
+export const EMAIL_RECIPIENTS = [];
+
+export const SLACKBOT_RECIPIENTS = [];
+
+export const PAGER_DUTY_RECIPIENTS = [];

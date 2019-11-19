@@ -1,0 +1,5 @@
+/**
+ * Mailers
+ */
+
+export const MAIL_RECIPIENTS = [];

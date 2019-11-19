@@ -1,0 +1,15 @@
+{
+  "name": "rust",
+  "version": "0.1.0",
+  "description": "Rust addons",
+  "main": "lib/index.js",
+  "author": "Jamal O'Garro",
+  "license": "MIT",
+  "scripts": {
+    "build": "neon build"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "neon-cli": "^0.3.3"
+  }
+}
